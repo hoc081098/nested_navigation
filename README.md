@@ -1,7 +1,7 @@
 # nested_navigation
 
 -   Flutter nested navigation with BottomNavigationBar.
--   Multiple `Navigator` for every tab.
+-   Multiple `Navigator`, every tab has an independent `Navigator`.
 -   Persistent bottom navigation bar.
 
 <p align="center">
